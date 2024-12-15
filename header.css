@@ -1,0 +1,20 @@
+.header {
+    background-color: var(--black-color-secondary);
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    color: var(--white-color);
+    height: var(--spacing--70);
+}
+
+.header__p--logo{
+    font-weight: 800;
+    font-size: var(--font-24);
+}
+.header__ul{
+    display: flex;
+    gap: var(--spacing--20);
+}
+.header__li{
+    font-size: var(--font-16);
+}
