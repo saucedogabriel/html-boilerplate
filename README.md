@@ -11,12 +11,12 @@ This project is a simple and modern landing page, created as part of my developm
 
 ---
 
-## ✨ Características  
+## ✨ Features  
 1. **Modern Design**: Simple structure with contrasting colors to highlight key information. 
 2. **Call to Action**: A "Sign up" button that encourages users to interact.
 3. **Attractive images**: Integration of visual elements for a better impact.
 
 ---
  
-### 🌐 Demo en Vivo
+### 🌐 Live Demo
 https://saucedogabriel.github.io/html-boilerplate/
