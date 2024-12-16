@@ -1,0 +1,21 @@
+.section_paragraph {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    background-color: var(--black-color);
+    height: 40rem;
+    justify-content: center;
+}
+
+.section_paragraph > p:first-child {
+    font-size: var(--font-40);
+    font-style: italic;
+    font-weight: 200;
+    color: var(--white-color);
+}
+
+.section_paragraph__p {
+    font-size: var(--font-20);
+    font-weight: 500;
+    color: var(--white-color);
+}

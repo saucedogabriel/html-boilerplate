@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    height: 10rem;
+    align-items: center;
+    justify-content: center;
+    background: var(--black-color);
+}
+
+.footer__p {
+    color: var(--white-color);
+    font-size: var(--font-18);
+    font-weight: 900;
+}

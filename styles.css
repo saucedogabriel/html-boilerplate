@@ -1,5 +1,9 @@
 @import url("header.css");
 @import url("section_main.css");
+@import url("section_items.css");
+@import url("section_paragraph.css");
+@import url("section_modal.css");
+@import url("footer.css");
 :root {
 	/* Typography*/
 	--base-font: 'Roboto', sans-serif;
@@ -25,7 +29,7 @@
 	--font-18: 1.8em;
 	--font-16: 1.6em;
 	--font-14: 1.4em;
-	--font-12: 1.2em;	
+	--font-12: 1.2em;
 	
 	/* Spacing */
 	--spacing--310: 31rem;
@@ -53,7 +57,7 @@
 	--spacing--4: 0.4rem;
 }
 
-*	
+*
 *:before,
 *::after {
 	box-sizing: border-box;
@@ -63,7 +67,7 @@
 
 html {
 	font-family: var(--base-font);
-  font-weight: 300;
+	font-weight: 300;
 	font-size: 62.5%;
 }
 
@@ -89,5 +93,5 @@ ul {
 }
 
 .border {
-  padding: 0 var(--spacing--220);
+	padding: 0 var(--spacing--200);
 }
